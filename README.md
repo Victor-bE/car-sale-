@@ -1,5 +1,1 @@
-# This was a project that I worked on as an exercise in my bootcamp.The data was collected from a second hand car sale websites as inputed by the car sellers.
-The main reason for doing the analysis was to establish what drives the prices for the second hand cars.I performed data cleaning since the data was messy,
-standardised the data and carried out linear regression. I calculated the weights for each variable and establish milage affect the price of a car pronountly,
-others include-engine volume,brand,
-#and its registration.
+As part of my bootcamp training, I undertook a project focused on analyzing data from second-hand car sales websites. The objective was to identify the key factors driving prices in the second-hand car market. To achieve this, I began by cleaning and standardizing the data before conducting linear regression analysis. Through this, I was able to determine the weight of each variable and found that mileage had a significant impact on car prices. Other influential factors included engine volume, brand, and registration details. Overall, this project allowed me to showcase my data analysis and regression modeling skills in a practical context.
